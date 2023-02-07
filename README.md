@@ -1,6 +1,5 @@
 - 👋 Hi, I’m LokeshKachriya
-- 👀 I’m interested in : DBMS, Java,Data structure, C language,Python Programing, AI, ML
-- 🌱 I’m currently learning : Java, Data structure, DBMS, C language
+- 👀 I’m interested in : MySql, C/C++, Python Programing, AI, ML
 - 📫 How to reach me : Contact No.- +919131081366, 
                             Email - lokeshcarpenter283@gmail.com
 
